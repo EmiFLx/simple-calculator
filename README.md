@@ -3,6 +3,7 @@
 A simple calculator made with Python.
 
 This is my first Python project.  
+
 The calculator can perform basic mathematical operations such as:
 
 - Addition
